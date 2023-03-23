@@ -1,1 +1,1 @@
-# Proiect-SGBD
+Java Database Connectivity
